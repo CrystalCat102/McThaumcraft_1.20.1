@@ -534,3 +534,89 @@ Caused by: java.lang.IllegalArgumentException
 [11:09:28] [Server thread/INFO]: Saving chunks for level '神秘世界生存2023/12/12'/overworld
 [11:09:28] [Server thread/INFO]: Saving and pausing game...
 [11:09:28] [Server thread/INFO]: Saving chunks for level '神秘世界生存2023/12/12'/overworld
+[11:12:29] [Client thread/INFO]: Loaded 2 advancements
+[11:12:50] [Server thread/INFO]: Saving and pausing game...
+[11:12:50] [Server thread/INFO]: Saving chunks for level '神秘世界生存2023/12/12'/overworld
+[11:12:56] [Client thread/INFO]: Loaded 13 advancements
+[11:12:59] [Server thread/INFO]: Saving and pausing game...
+[11:13:00] [Server thread/INFO]: Saving chunks for level '神秘世界生存2023/12/12'/overworld
+[11:13:35] [Server thread/WARN]: Thaumcraft loaded a new chunk [-5, 2] in dimension 0 (overworld) while populating chunk [-4, 3], causing cascading worldgen lag.
+[11:13:35] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[11:14:02] [Client thread/INFO]: Loaded 14 advancements
+[11:14:03] [Server thread/INFO]: CrystalCat102取得了进度[开荒垦地]
+[11:14:03] [Client thread/INFO]: [CHAT] CrystalCat102取得了进度[开荒垦地]
+[11:14:03] [Client thread/INFO]: Loaded 18 advancements
+[11:14:06] [Client thread/INFO]: Exception when loading minecraft:wheat texture, using material colour.
+[11:14:06] [Client thread/INFO]: Black texture 16
+[11:14:09] [Client thread/INFO]: Loaded 24 advancements
+[11:14:09] [Client thread/INFO]: Loaded 25 advancements
+[11:14:24] [Client thread/INFO]: Loaded 27 advancements
+[11:14:43] [Client thread/INFO]: Loaded 30 advancements
+[11:15:50] [Client thread/INFO]: Loaded 31 advancements
+[11:15:50] [Client thread/INFO]: Loaded 36 advancements
+[11:15:52] [Server thread/INFO]: Saving and pausing game...
+[11:15:52] [Server thread/INFO]: Saving chunks for level '神秘世界生存2023/12/12'/overworld
+[11:15:59] [Server thread/INFO]: CrystalCat102取得了进度[石器时代]
+[11:15:59] [Client thread/INFO]: [CHAT] CrystalCat102取得了进度[石器时代]
+[11:15:59] [Client thread/INFO]: Loaded 47 advancements
+[11:16:25] [Server thread/INFO]: CrystalCat102取得了进度[获得升级]
+[11:16:25] [Client thread/INFO]: [CHAT] CrystalCat102取得了进度[获得升级]
+[11:16:25] [Client thread/INFO]: Loaded 52 advancements
+[11:17:01] [Server thread/INFO]: Saving and pausing game...
+[11:17:01] [Server thread/INFO]: Saving chunks for level '神秘世界生存2023/12/12'/overworld
+[11:17:30] [Client thread/INFO]: Loaded 55 advancements
+[11:18:22] [Client thread/INFO]: Loaded 56 advancements
+[11:18:30] [Client thread/INFO]: Loaded 57 advancements
+[11:18:34] [Client thread/INFO]: Loaded 59 advancements
+[11:18:47] [Client thread/INFO]: Loaded 60 advancements
+[11:20:35] [Client thread/INFO]: Loaded 61 advancements
+[11:20:50] [Client thread/INFO]: Loaded 62 advancements
+[11:20:51] [Client thread/INFO]: Loaded 66 advancements
+[11:21:15] [Server thread/WARN]: Thaumcraft loaded a new chunk [-12, 16] in dimension 0 (overworld) while populating chunk [-12, 15], causing cascading worldgen lag.
+[11:21:15] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[11:22:20] [Client thread/INFO]: Loaded 75 advancements
+[11:22:20] [Client thread/INFO]: Loaded 80 advancements
+[11:22:32] [Client thread/INFO]: Loaded 99 advancements
+[11:22:35] [Server thread/WARN]: Thaumcraft loaded a new chunk [-13, 18] in dimension 0 (overworld) while populating chunk [-13, 17], causing cascading worldgen lag.
+[11:22:35] [Server thread/WARN]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[11:23:00] [Client thread/INFO]: Loaded 114 advancements
+[11:23:03] [Server thread/INFO]: CrystalCat102取得了进度[甜蜜的梦]
+[11:23:03] [Client thread/INFO]: [CHAT] CrystalCat102取得了进度[甜蜜的梦]
+[11:23:03] [Client thread/INFO]: Loaded 114 advancements
+[11:23:27] [Server thread/INFO]: CrystalCat102取得了进度[怪物猎人]
+[11:23:27] [Client thread/INFO]: [CHAT] CrystalCat102取得了进度[怪物猎人]
+[11:23:27] [Client thread/INFO]: Loaded 115 advancements
+[11:23:28] [Client thread/INFO]: Loaded 115 advancements
+[11:25:23] [Client thread/INFO]: Loaded 117 advancements
+[11:25:26] [Client thread/WARN]: Received passengers for unknown entity
+[11:26:13] [Client thread/WARN]: Received passengers for unknown entity
+[11:26:42] [Server thread/INFO]: CrystalCat102取得了进度[我从哪儿来？]
+[11:26:42] [Client thread/INFO]: [CHAT] CrystalCat102取得了进度[我从哪儿来？]
+[11:26:42] [Client thread/INFO]: Loaded 117 advancements
+[11:27:41] [Client thread/INFO]: Loaded 134 advancements
+[11:27:52] [Client thread/INFO]: Loaded 135 advancements
+[11:30:15] [Server thread/INFO]: Saving and pausing game...
+[11:30:15] [Server thread/INFO]: Saving chunks for level '神秘世界生存2023/12/12'/overworld
+[11:30:24] [Server thread/INFO]: Saving and pausing game...
+[11:30:24] [Server thread/INFO]: Saving chunks for level '神秘世界生存2023/12/12'/overworld
+[11:30:41] [Server thread/INFO]: Saving and pausing game...
+[11:30:41] [Server thread/INFO]: Saving chunks for level '神秘世界生存2023/12/12'/overworld
+[11:31:14] [Server thread/INFO]: Saving and pausing game...
+[11:31:14] [Server thread/INFO]: Saving chunks for level '神秘世界生存2023/12/12'/overworld
+[11:31:15] [Client thread/INFO]: Minimap session finalized.
+[11:31:15] [Server thread/INFO]: Stopping server
+[11:31:15] [Server thread/INFO]: Saving players
+[11:31:15] [Server thread/INFO]: CrystalCat102 lost connection: 连接中止
+[11:31:15] [Server thread/INFO]: CrystalCat102退出了游戏
+[11:31:15] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[11:31:15] [Server thread/INFO]: Saving worlds
+[11:31:15] [Server thread/INFO]: Saving chunks for level '神秘世界生存2023/12/12'/overworld
+[11:31:15] [Server thread/INFO]: Removing aura cache for world 0
+[11:31:15] [Thread-9/WARN]: No auras found!
+[11:31:15] [Thread-9/INFO]: Stopping aura thread for dim 0
+[11:31:15] [Server thread/INFO]: Unloading dimension 0
+[11:31:15] [Server thread/INFO]: Applying holder lookups
+[11:31:15] [Server thread/INFO]: Holder lookups applied
+[11:31:16] [Client thread/INFO]: Stopping!
+[11:31:16] [Client thread/INFO]: SoundSystem shutting down...
+[11:31:17] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

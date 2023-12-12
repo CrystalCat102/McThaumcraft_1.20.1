@@ -88,6 +88,26 @@ key_key.hotbar.9:10
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
 key_keybind.baublesinventory:48
+key_gui.xaero_switch_waypoint_set:0
+key_gui.xaero_instant_waypoint:78
+key_gui.xaero_toggle_slime:0
+key_gui.xaero_toggle_grid:0
+key_gui.xaero_toggle_waypoints:0
+key_gui.xaero_toggle_map_waypoints:0
+key_gui.xaero_toggle_map:0
+key_gui.xaero_enlarge_map:44
+key_gui.xaero_waypoints_key:22
+key_gui.xaero_zoom_in:0
+key_gui.xaero_zoom_out:0
+key_gui.xaero_new_waypoint:48
+key_gui.xaero_display_all_sets:0
+key_gui.xaero_toggle_light_overlay:0
+key_gui.xaero_toggle_entity_radar:0
+key_gui.xaero_reverse_entity_radar:0
+key_gui.xaero_toggle_manual_cave_mode:0
+key_gui.xaero_alternative_list_players:0
+key_gui.xaero_toggle_tracked_players:0
+key_gui.xaero_minimap_settings:21
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
